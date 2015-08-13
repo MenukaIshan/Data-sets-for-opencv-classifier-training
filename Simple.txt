@@ -1,0 +1,4 @@
+
+Front face detection
+Human body 
+Frontal eyes
